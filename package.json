@@ -11,10 +11,21 @@
   "author": "Thanadon",
   "license": "ISC",
   "devDependencies": {
+    "index.js": "^0.0.3",
+    "nodemon": "^3.1.9",
     "prettier": "^3.4.2"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "express": "^4.21.2"
-  }
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkam16666/NODERES-267chu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arkam16666/NODERES-267chu/issues"
+  },
+  "homepage": "https://github.com/arkam16666/NODERES-267chu#readme"
 }
